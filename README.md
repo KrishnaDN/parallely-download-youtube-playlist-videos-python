@@ -1,4 +1,4 @@
-# parallal-download-youtube-playlist-videos-python
+# parallely-download-youtube-playlist-videos-python
 This repo contains code for downloading all the videos in a given playlist parallaly.
 We use multiprocessing package to parallaly download videos at a time
 1. Change the playlist URL path to the playlist link you would like to download. By default it download "Old Kannada songs"
